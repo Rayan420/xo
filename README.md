@@ -55,5 +55,8 @@ The Tic-Tac-Toe game was created as a learning project and was inspired by vario
 
 This project is licensed under the [MIT License](LICENSE). Feel free to modify and use it according to your needs.
 
-
+![Screenshot 2023-07-08 200038](https://github.com/Rayan420/xo/assets/101011496/2a1559f7-e1b1-473d-81c0-abdf24266c81)
 ![Screenshot 2023-07-08 195822](https://github.com/Rayan420/xo/assets/101011496/1a2d6114-bd0c-4674-b959-c1a2672bc4c1)
+![Screenshot 2023-07-08 200202](https://github.com/Rayan420/xo/assets/101011496/26a604f9-19c4-4367-82e9-f90b9725b49c) ![Screenshot 2023-07-08 200202](https://github.com/Rayan420/xo/assets/101011496/4869b322-a3ea-4c50-b393-469d1a204ba3)
+
+
